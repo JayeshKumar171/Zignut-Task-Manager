@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "1769705479153",
+      "email": "admin@gmail.com",
+      "name": "Jayesh Lodhi",
+      "passwordHash": "$2a$10$sWJUUbCPaGO/hmx1H90hsewXYndgNfwBDxMI8wonmZ8sndMdtGEx."
+    }
+  ],
+  "projects": [
+    {
+      "id": "1769705502625",
+      "name": "Lehsun",
+      "description": "kjk",
+      "userId": "1769705479153",
+      "createdAt": "2026-01-29T16:51:42.625Z",
+      "updatedAt": "2026-01-29T16:51:42.625Z"
+    }
+  ],
+  "tasks": []
+}

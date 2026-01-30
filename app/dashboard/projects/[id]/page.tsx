@@ -24,7 +24,7 @@ export default function ProjectDetailPage() {
   const [dialogOpen, setDialogOpen] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
 
-  // Fetch projects from API on mount to ensure fresh data
+  // Fetch projects from API 
   useEffect(() => {
     const fetchProjects = async () => {
       if (!token) {
